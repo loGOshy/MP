@@ -1,0 +1,27 @@
+{
+  "name": "MP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loGOshy/MP.git"
+  },
+  "keywords": [],
+  "author": "Aleksandr_Logosha <am.logosha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loGOshy/MP/issues"
+  },
+  "homepage": "https://github.com/loGOshy/MP#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash.throttle": "^4.1.1",
+    "typescript": "^4.1.3",
+    "validator": "^13.5.2"
+  }
+}
